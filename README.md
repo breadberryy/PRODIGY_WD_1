@@ -9,6 +9,9 @@ This is "Project 1" of my internship at "Prodigy InfoTech".
 - CSS
 - JavaScript
 
+---
+
+
 ### Features:
 - 2-player game (X and O)
 - Draw detection
@@ -16,9 +19,15 @@ This is "Project 1" of my internship at "Prodigy InfoTech".
 - Reset / New Game functionality
 - Responsive layout for all screen sizes
 
+---
+
+
 Screenshot:
 
 <img width="1076" height="913" alt="image" src="https://github.com/user-attachments/assets/a477737e-68ee-4039-9456-ac759be62f14" />
+
+---
+
 
 ### Project Structure:
 - index.html → Main HTML file
