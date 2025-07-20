@@ -1,6 +1,6 @@
-PRODIGY_WD_1
+# PRODIGY_WD_1
 
-Internship Project 1 – Responsive Tic-Tac-Toe Game 🎮
+## Internship Project 1 – Responsive Tic-Tac-Toe Game 🎮
 
 This is "Project 1" of my internship at "Prodigy InfoTech".
 
